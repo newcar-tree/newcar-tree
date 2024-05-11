@@ -1,0 +1,8 @@
+{
+  "entryPoints": ["src/*"],
+  "exclude": [],
+  "name": "Newcar API References",
+  "entryPointStrategy": "packages",
+  "includeVersion": false,
+  "out": "./docs/apis"
+}

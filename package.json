@@ -1,0 +1,24 @@
+{
+  "name": "newcar-tree",
+  "version": "0.0.0-dev",
+  "description": "The tree-graph syntax for Newcar animation engine",
+  "scripts": {},
+  "keywords": [
+    "newcar",
+    "animation"
+  ],
+  "author": "newcar-tree",
+  "license": "MIT",
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.17.0",
+    "@eslint/js": "^9.2.0",
+    "eslint": "^9.2.0",
+    "globals": "^15.2.0",
+    "newcar": "1.0.0-beta.4",
+    "pnpm": "^9.1.0",
+    "typedoc": "^0.25.13",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0",
+    "vite": "^5.2.11"
+  }
+}
